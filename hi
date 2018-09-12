@@ -1,2 +1,3 @@
-#!/bin/usr/
+#!/bin/bash
 echo "que pasa"
+uname
