@@ -6,3 +6,8 @@ print("Profe Pato")
 print("print1")
 print("print2")
 print("print3")
+
+print ("hempana")
+print ("bazoooka")
+print ("luka ")
+
